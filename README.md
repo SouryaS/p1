@@ -23,7 +23,8 @@
 
 <br>
 
-<img src="https://i.imgur.com/iKLNvzR.gif" alt="Chatbot Demo" width="70%" />
+<p><strong>🎬 Interactive AI Chat Demo</strong><br>
+Experience natural conversations with Google's Gemini 1.5 Flash model!</p>
 
 <br>
 
@@ -95,10 +96,6 @@ Then visit: [http://localhost:8501](http://localhost:8501)
 
 ## 💡 Usage
 
-<p align="center">
-  <img src="https://i.imgur.com/APOW2Kv.png" alt="Usage Guide" width="80%" />
-</p>
-
 <ol>
   <li>🔠 <b>Type your question</b> in the input field</li>
   <li>🖱️ <b>Click "Ask the question"</b> button</li>
@@ -158,15 +155,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Created with ❤️ by Sourya Sarkar
 
 <p>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p>
   ⭐ <b>Star this repo if you found it useful!</b> ⭐
 </p>
-
-<img src="https://i.imgur.com/e3mBCZL.gif" alt="Thank You" width="150" />
 
 </div> 
